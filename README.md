@@ -3,9 +3,10 @@
 An end-to-end data engineering pipeline that automatically extracts, transforms, loads and visualizes Nigeria's key economic indicators.
 
 ## Dashboard Preview
-*![alt text](image.png)*
+*<img width="1866" height="846" alt="Screenshot 2026-05-02 231732" src="https://github.com/user-attachments/assets/643b6e8c-7274-453f-98da-924518d808f1" />
+*
 
-## 🏗️ Architecture
+## Architecture
  
 Extract (APIs) → Transform (Pandas) → Load (SQLite) → Visualize (Streamlit)
 
@@ -27,7 +28,7 @@ Extract (APIs) → Transform (Pandas) → Load (SQLite) → Visualize (Streamlit
 
 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/nigeria-economic-pipeline.git
+git clone https://github.com/EddyEtesin/nigeria-economic-pipeline.git
 cd nigeria-economic-pipeline
 ```
 
